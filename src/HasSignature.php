@@ -1,5 +1,5 @@
 <?php
-namespace Jeckel\EloquentSignature;
+namespace Debiano\EloquentSignature;
 
 trait HasSignature
 {
