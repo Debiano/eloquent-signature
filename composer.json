@@ -1,19 +1,13 @@
 {
-    "name": "jeckel/eloquent-signature",
+    "name": "debiano/eloquent-signature",
     "description": "Signature trait to manage a signature field in models",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Julien MERCIER",
-            "email": "devci@j3ck3l.me"
-        }
-    ],
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Jeckel\\EloquentSignature\\": "src/"
+            "Debiano\\EloquentSignature\\": "src/"
         }
     }
 }
